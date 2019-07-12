@@ -18,7 +18,9 @@ importlib-metadata==0.17
 incremental==17.5.0
 lxml==4.3.4
 more-itertools==7.0.0
+numpy==1.16.4
 packaging==19.0
+pandas==0.24.2
 parsel==1.5.1
 pluggy==0.12.0
 proxyscrape23==0.1.1
@@ -32,6 +34,8 @@ pyOpenSSL==19.0.0
 pyparsing==2.4.0
 pytest==5.0.0
 pytest-runner==4.4
+python-dateutil==2.8.0
+pytz==2019.1
 pywin32==223
 queuelib==1.5.0
 requests==2.22.0

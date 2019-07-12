@@ -61,7 +61,11 @@ dependencies:
   - pip:
     - beautifulsoup4==4.7.1
     - chardet==3.0.4
+    - numpy==1.16.4
+    - pandas==0.24.2
     - proxyscrape23==0.1.1
+    - python-dateutil==2.8.0
+    - pytz==2019.1
     - requests==2.22.0
     - scrapy-proxy-pool==0.1.5
     - scrapy-user-agents==0.1.1
