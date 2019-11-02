@@ -45,7 +45,7 @@ scrapy-user-agents==0.1.1
 service-identity==18.1.0
 six==1.12.0
 soupsieve==1.9.2
-Twisted==19.2.0
+Twisted==19.7.0
 ua-parser==0.8.0
 urllib3==1.25.3
 user-agents==2.0
