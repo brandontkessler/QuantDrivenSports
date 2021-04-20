@@ -24,7 +24,7 @@ pandas==0.24.2
 parsel==1.5.1
 pluggy==0.12.0
 proxyscrape23==0.1.1
-py==1.8.0
+py==1.10.0
 pyasn1==0.4.5
 pyasn1-modules==0.2.4
 pycparser==2.19
