@@ -39,7 +39,7 @@ pytz==2019.1
 pywin32==223
 queuelib==1.5.0
 requests==2.22.0
-Scrapy==1.6.0
+Scrapy==1.8.2
 scrapy-proxy-pool==0.1.5
 scrapy-user-agents==0.1.1
 service-identity==18.1.0
