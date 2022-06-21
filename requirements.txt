@@ -18,7 +18,7 @@ importlib-metadata==0.17
 incremental==17.5.0
 lxml==4.3.4
 more-itertools==7.0.0
-numpy==1.16.4
+numpy==1.22.0
 packaging==19.0
 pandas==0.24.2
 parsel==1.5.1
